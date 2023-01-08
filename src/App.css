@@ -39,3 +39,25 @@
 .read-the-docs {
   color: #888;
 }
+
+.title{
+  color: #f15a24;
+  font-family: monospace;
+  font-size: 3em;
+  text-transform: uppercase;
+  -webkit-text-stroke: 3px black;
+}
+
+.styleChiste{
+  width: 600px;
+  height: 200px;
+  text-align: justify;
+  color: #f15a24;
+  font-family: monospace;
+  font-size: 1.5em;
+}
+
+.btns{
+  width: 600px;
+  text-align: left;
+}
